@@ -1,0 +1,4 @@
+[INFO  7/31/2023 10:55:32 PM] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  7/31/2023 10:55:32 PM] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 7/31/2023 10:55:32 PM] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm.cmd failed with exit code - and signal -. npm.cmd is not executable
+[INFO  7/31/2023 10:55:35 PM] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rust-analyzer)

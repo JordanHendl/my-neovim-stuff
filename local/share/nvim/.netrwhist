@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='C:\Program Files\Git\wksp\git\hyperion'
+let g:netrw_dirhist_4='C:/Program Files/Git/wksp/git/hyperion/src'
+let g:netrw_dirhist_3='C:/Program Files/Git/wksp/git/hyperion'
+let g:netrw_dirhist_2='C:/Program Files/Git/wksp/git/hyperion/src/hyperion/backend'
+let g:netrw_dirhist_1='C:/Program Files/Git/wksp/git/hyperion/src/hyperion'
+let g:netrw_dirhist_0='C:/Program Files/Git/wksp/git/hyperion/src'
+let g:netrw_dirhist_9='C:\Program Files\Git\wksp\git\hyperion'
+let g:netrw_dirhist_8='C:/Program Files/Git/wksp/git/hyperion/src'
+let g:netrw_dirhist_7='C:/Program Files/Git/wksp/git/hyperion'
+let g:netrw_dirhist_6='C:/Program Files/Git/wksp/git/hyperion/src/hyperion'
